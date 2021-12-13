@@ -1,0 +1,10 @@
+org\ucm\poker02p\model\Simulator.class
+org\ucm\poker02p\model\Observer.class
+org\ucm\poker02p\model\Rango.class
+org\ucm\poker02p\view\MainPanel$1.class
+org\ucm\poker02p\view\PanelCuadritos.class
+org\ucm\poker02p\control\Controller.class
+org\ucm\poker02p\view\MainPanel.class
+org\ucm\poker02p\launcher\Main.class
+org\ucm\poker02p\model\Mano.class
+org\ucm\poker02p\model\Cuadrito.class
